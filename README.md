@@ -16,7 +16,7 @@ You need Microsoft Visual C++ 6.0
 
 ### Supported compilers
 
-You need a C++ compatible compiler to build libadblockplus.
+You need a C++ compatible compiler to build cpp1.
 
 The compilation was tested with the following compilers:
 * Microsoft Visual Studio 6.0, 2010, 2012
