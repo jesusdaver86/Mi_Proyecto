@@ -12,7 +12,7 @@ Building
 You need Microsoft Visual C++ 6.0
 
 * Execute `createfolderbd.bat` to generate empty folders where we will store the data.
-`c:\\oculto` and `c:\\registro`.
+`c:\\oculto` and `c:\\proyecto`.
 
 ### Supported compilers
 
