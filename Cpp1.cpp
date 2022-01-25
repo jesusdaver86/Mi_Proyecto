@@ -1,25 +1,25 @@
-/***************ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»****************\
-*   ÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜ                                                                       * 
-    Û°°°°°°°°ÛÛÛ°°°°°°Û                                                                       *
-    Û°°°°°°°°ÛÛ°°°°°°°Û                                                                       *
-    Û°°°°°°°°Û°°°°°°°°Û                                                                       *
-    Û°°°°°°°°Û°°°°°°°°Û                                                                       *
-    ÛÛ°°°°°°°Û°°°°°°°°Û UNIVERSIDAD                                                           *
-    ÛÛÛ°°°°°°Û°°°°°°°°Û                                                                       *
-    ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ                                                                       *
-    ÛÛÛ°°°°ÛÛÛÛÛ                                                                              *
-    ÛÛ°°°°°°ÛÛÛ    ALONSO DE OJEDA                                                            *
-    Û°°°°°°°°Û                                                                                *
-    Û°°°°°°°°Û                                                                                *
-    ÛÛ°°°°°°ÛÛ                                                                                *
-    ÛÛÛ°°°°ÛÛÛ                                                                                *
-    ßßßßßßßßßß  ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»                *
-*               ºSISTEMA AUTOMATIZADO DE REGISTRO PARA LA CONTRATACIáN DEL   º                *
-*               º                PERSONAL DOCENTE DE UNIOJEDA                º                *
-*               º                                                            º                *
-\***************º       Desarrollado por Jesus D. Rivero C.                  º****************/
-              /*º                     +58 0416-1657707                       º
-                ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼*/
+/***************Ã‰ÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ»****************\
+*   ÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœ                                                                       * 
+    Ã›Â°Â°Â°Â°Â°Â°Â°Â°Ã›Ã›Ã›Â°Â°Â°Â°Â°Â°Ã›                                                                       *
+    Ã›Â°Â°Â°Â°Â°Â°Â°Â°Ã›Ã›Â°Â°Â°Â°Â°Â°Â°Ã›                                                                       *
+    Ã›Â°Â°Â°Â°Â°Â°Â°Â°Ã›Â°Â°Â°Â°Â°Â°Â°Â°Ã›                                                                       *
+    Ã›Â°Â°Â°Â°Â°Â°Â°Â°Ã›Â°Â°Â°Â°Â°Â°Â°Â°Ã›                                                                       *
+    Ã›Ã›Â°Â°Â°Â°Â°Â°Â°Ã›Â°Â°Â°Â°Â°Â°Â°Â°Ã› UNIVERSIDAD                                                           *
+    Ã›Ã›Ã›Â°Â°Â°Â°Â°Â°Ã›Â°Â°Â°Â°Â°Â°Â°Â°Ã›                                                                       *
+    Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›                                                                       *
+    Ã›Ã›Ã›Â°Â°Â°Â°Ã›Ã›Ã›Ã›Ã›                                                                              *
+    Ã›Ã›Â°Â°Â°Â°Â°Â°Ã›Ã›Ã›    ALONSO DE OJEDA                                                            *
+    Ã›Â°Â°Â°Â°Â°Â°Â°Â°Ã›                                                                                *
+    Ã›Â°Â°Â°Â°Â°Â°Â°Â°Ã›                                                                                *
+    Ã›Ã›Â°Â°Â°Â°Â°Â°Ã›Ã›                                                                                *
+    Ã›Ã›Ã›Â°Â°Â°Â°Ã›Ã›Ã›                                                                                *
+    ÃŸÃŸÃŸÃŸÃŸÃŸÃŸÃŸÃŸÃŸ  Ã‰ÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ»                *
+*               ÂºSISTEMA AUTOMATIZADO DE REGISTRO PARA LA CONTRATACIÃ¡N DEL   Âº                *
+*               Âº                PERSONAL DOCENTE DE UNIOJEDA                Âº                *
+*               Âº                                                            Âº                *
+\***************Âº       Desarrollado por Jesus D. Rivero C.                  Âº****************/
+              /*Âº                     +58 0412-1052340                       Âº
+                ÃˆÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ¼*/
 
 
 
@@ -63,7 +63,7 @@ int opm_a2, opm_a3, opm_a4, opm_a5, opm_a6, opm_a8, opm_a9, opmat, op_f;//admi2
 int opmas2,opmas3,opmas4,opmas5,opmas6,opmas8,opmas9, opbf, opmas;//admi3
 int opc, opver, sw, d, contmat;
 cl clave;
-/**********************************FUNCIàN PRINCIPAL*****************************************/
+/**********************************FUNCIÃ N PRINCIPAL*****************************************/
 void main(){
 
         char log[20], pas[20];
@@ -72,28 +72,28 @@ void main(){
         char buscar [20];
         arch=fopen("c:\\oculto\\claves.dat", "rb");
 	if (arch == NULL)
-	{       printf(" ÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜ\n");
-            printf(" Û°°°°°°°°ÛÛÛ°°°°°°Û\n");
-            printf(" Û°°°°°°°°ÛÛ°°°°°°°Û\n");
-            printf(" Û°°°°°°°°Û°°°°°°°°Û\n");
-            printf(" ÛÛ°°°°°°°Û°°°°°°°°Û UNIVERSIDAD\n");
-            printf(" ÛÛÛ°°°°°°Û°°°°°°°°Û\n");
-            printf(" ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ\n");
-            printf(" ÛÛÛ°°°°ÛÛÛÛÛ\n");
-            printf(" ÛÛ°°°°°°ÛÛÛ     ALONSO DE OJEDA\n");
-            printf(" Û°°°°°°°°Û\n");
-            printf(" Û°°°°°°°°Û\n");
-            printf(" ÛÛ°°°°°°ÛÛ\n");
-            printf(" ÛÛÛ°°°°ÛÛÛ\n");
-            printf(" ßßßßßßßßßß                  A¥o 2006  \n");
-            printf("        É»ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»É»\n");
-		    printf("        ÈÎ¼                                                      ÈÎ¼\n");
-            printf("        É¼                                                        È»\n");
-            printf("        º         Bienvenido a nuestro sistema de acceso           º\n");
-		    printf("        º A continuacion sera creada su cuenta de administrador    º\n");
-            printf("        È»                                                        É¼\n");
-            printf("        ÉÎ»                                                      ÉÎ»\n");
-            printf("        È¼ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼È¼\n");
+	{       printf(" ÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœ\n");
+            printf(" Ã›Â°Â°Â°Â°Â°Â°Â°Â°Ã›Ã›Ã›Â°Â°Â°Â°Â°Â°Ã›\n");
+            printf(" Ã›Â°Â°Â°Â°Â°Â°Â°Â°Ã›Ã›Â°Â°Â°Â°Â°Â°Â°Ã›\n");
+            printf(" Ã›Â°Â°Â°Â°Â°Â°Â°Â°Ã›Â°Â°Â°Â°Â°Â°Â°Â°Ã›\n");
+            printf(" Ã›Ã›Â°Â°Â°Â°Â°Â°Â°Ã›Â°Â°Â°Â°Â°Â°Â°Â°Ã› UNIVERSIDAD\n");
+            printf(" Ã›Ã›Ã›Â°Â°Â°Â°Â°Â°Ã›Â°Â°Â°Â°Â°Â°Â°Â°Ã›\n");
+            printf(" Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›\n");
+            printf(" Ã›Ã›Ã›Â°Â°Â°Â°Ã›Ã›Ã›Ã›Ã›\n");
+            printf(" Ã›Ã›Â°Â°Â°Â°Â°Â°Ã›Ã›Ã›     ALONSO DE OJEDA\n");
+            printf(" Ã›Â°Â°Â°Â°Â°Â°Â°Â°Ã›\n");
+            printf(" Ã›Â°Â°Â°Â°Â°Â°Â°Â°Ã›\n");
+            printf(" Ã›Ã›Â°Â°Â°Â°Â°Â°Ã›Ã›\n");
+            printf(" Ã›Ã›Ã›Â°Â°Â°Â°Ã›Ã›Ã›\n");
+            printf(" ÃŸÃŸÃŸÃŸÃŸÃŸÃŸÃŸÃŸÃŸ                  AÂ¥o 2006  \n");
+            printf("        Ã‰Â»Ã‰ÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ»Ã‰Â»\n");
+		    printf("        ÃˆÃÂ¼                                                      ÃˆÃÂ¼\n");
+            printf("        Ã‰Â¼                                                        ÃˆÂ»\n");
+            printf("        Âº         Bienvenido a nuestro sistema de acceso           Âº\n");
+		    printf("        Âº A continuacion sera creada su cuenta de administrador    Âº\n");
+            printf("        ÃˆÂ»                                                        Ã‰Â¼\n");
+            printf("        Ã‰ÃÂ»                                                      Ã‰ÃÂ»\n");
+            printf("        ÃˆÂ¼ÃˆÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ¼ÃˆÂ¼\n");
 		arch= fopen("c:\\oculto\\claves.dat", "ab");
 		printf("           Indique login administrador= ");
 		scanf("%s",&clave.login);
@@ -127,20 +127,20 @@ void main(){
 		
 		system ("cls");
 		fflush(stdin);
-		    printf(" ÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜ\n");
-            printf(" Û°°°°°°°°ÛÛÛ°°°°°°Û\n");
-            printf(" Û°°°°°°°°ÛÛ°°°°°°°Û\n");
-            printf(" Û°°°°°°°°Û°°°°°°°°Û\n");
-            printf(" ÛÛ°°°°°°°Û°°°°°°°°Û UNIVERSIDAD\n");
-            printf(" ÛÛÛ°°°°°°Û°°°°°°°°Û\n");
-            printf(" ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ\n");
-            printf(" ÛÛÛ°°°°ÛÛÛÛÛ\n");
-            printf(" ÛÛ°°°°°°ÛÛÛ     ALONSO DE OJEDA\n");
-            printf(" Û°°°°°°°°Û\n");
-            printf(" Û°°°°°°°°Û\n");
-            printf(" ÛÛ°°°°°°ÛÛ\n");
-            printf(" ÛÛÛ°°°°ÛÛÛ\n");
-            printf(" ßßßßßßßßßß                  A¥o 2006\n\n");
+		    printf(" ÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœ\n");
+            printf(" Ã›Â°Â°Â°Â°Â°Â°Â°Â°Ã›Ã›Ã›Â°Â°Â°Â°Â°Â°Ã›\n");
+            printf(" Ã›Â°Â°Â°Â°Â°Â°Â°Â°Ã›Ã›Â°Â°Â°Â°Â°Â°Â°Ã›\n");
+            printf(" Ã›Â°Â°Â°Â°Â°Â°Â°Â°Ã›Â°Â°Â°Â°Â°Â°Â°Â°Ã›\n");
+            printf(" Ã›Ã›Â°Â°Â°Â°Â°Â°Â°Ã›Â°Â°Â°Â°Â°Â°Â°Â°Ã› UNIVERSIDAD\n");
+            printf(" Ã›Ã›Ã›Â°Â°Â°Â°Â°Â°Ã›Â°Â°Â°Â°Â°Â°Â°Â°Ã›\n");
+            printf(" Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›\n");
+            printf(" Ã›Ã›Ã›Â°Â°Â°Â°Ã›Ã›Ã›Ã›Ã›\n");
+            printf(" Ã›Ã›Â°Â°Â°Â°Â°Â°Ã›Ã›Ã›     ALONSO DE OJEDA\n");
+            printf(" Ã›Â°Â°Â°Â°Â°Â°Â°Â°Ã›\n");
+            printf(" Ã›Â°Â°Â°Â°Â°Â°Â°Â°Ã›\n");
+            printf(" Ã›Ã›Â°Â°Â°Â°Â°Â°Ã›Ã›\n");
+            printf(" Ã›Ã›Ã›Â°Â°Â°Â°Ã›Ã›Ã›\n");
+            printf(" ÃŸÃŸÃŸÃŸÃŸÃŸÃŸÃŸÃŸÃŸ                  AÂ¥o 2006\n\n");
 		printf("   Login: ");
 		
 		scanf("%s", &log);
@@ -193,13 +193,13 @@ void main(){
 						
 						case 2:
 							
-			printf("        É»ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»É»\n");
-		    printf("        ÈÎ¼                                                      ÈÎ¼\n");
-            printf("        É¼                                                        È»\n");
-            printf("        º        INSERTE EL ID DEL DOCENTE QUE QUIERE BUSCAR       º\n");
-            printf("        È»                                                        É¼\n");
-            printf("        ÉÎ»                                                      ÉÎ»\n");
-            printf("        È¼ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼È¼id:");
+			printf("        Ã‰Â»Ã‰ÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ»Ã‰Â»\n");
+		    printf("        ÃˆÃÂ¼                                                      ÃˆÃÂ¼\n");
+            printf("        Ã‰Â¼                                                        ÃˆÂ»\n");
+            printf("        Âº        INSERTE EL ID DEL DOCENTE QUE QUIERE BUSCAR       Âº\n");
+            printf("        ÃˆÂ»                                                        Ã‰Â¼\n");
+            printf("        Ã‰ÃÂ»                                                      Ã‰ÃÂ»\n");
+            printf("        ÃˆÂ¼ÃˆÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ¼ÃˆÂ¼id:");
 							scanf("%s",&buscar);
 							busqueda(buscar);
 							break;
@@ -211,14 +211,14 @@ void main(){
 
 					{
 
-						printf("É»ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»É»\n");
-						printf("ÈÎ¼                                              ÈÎ¼\n");
-                        printf("É¼                                                È»\n");
-						printf("ºArchivo vacio, Ingrese a la Opcion Almacenar Datosº\n");
-						printf("º          Presione Enter Para Continuar           º\n");
-						printf("È»                                                É¼\n");
-                        printf("ÉÎ»                                              ÉÎ»\n");
-						printf("È¼ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼È¼\n");
+						printf("Ã‰Â»Ã‰ÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ»Ã‰Â»\n");
+						printf("ÃˆÃÂ¼                                              ÃˆÃÂ¼\n");
+                        printf("Ã‰Â¼                                                ÃˆÂ»\n");
+						printf("ÂºArchivo vacio, Ingrese a la Opcion Almacenar DatosÂº\n");
+						printf("Âº          Presione Enter Para Continuar           Âº\n");
+						printf("ÃˆÂ»                                                Ã‰Â¼\n");
+                        printf("Ã‰ÃÂ»                                              Ã‰ÃÂ»\n");
+						printf("ÃˆÂ¼ÃˆÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ¼ÃˆÂ¼\n");
 						getch();
 
 						break;
@@ -264,28 +264,28 @@ void menu()
 { 
   
 	system ("cls");
-	printf("       ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»\n");
-	printf("       ºSISTEMA AUTOMATIZADO DE REGISTRO PARA LA CONTRATACION DELº\n");
-	printf("       º               PERSONAL DOCENTE DE UNIOJEDA              º\n");
-	printf("       ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼\n\n");
-	 cputs( "ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿\n");
-	printf("³ EL SISTEMA ACTUAL CUENTA CON: %d REGISTROS                           ³\n",x);
-	printf("ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ\n\n");
-    cputs( "ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»\n");
-	cputs( "º(" );
+	printf("       Ã‰ÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ»\n");
+	printf("       ÂºSISTEMA AUTOMATIZADO DE REGISTRO PARA LA CONTRATACION DELÂº\n");
+	printf("       Âº               PERSONAL DOCENTE DE UNIOJEDA              Âº\n");
+	printf("       ÃˆÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ¼\n\n");
+	 cputs( "ÃšÃ„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Â¿\n");
+	printf("Â³ EL SISTEMA ACTUAL CUENTA CON: %d REGISTROS                           Â³\n",x);
+	printf("Ã€Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã™\n\n");
+    cputs( "Ã‰ÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ»\n");
+	cputs( "Âº(" );
 	cputs( "1" );
-	printf(").-Almacenar datos del personal docente:                           º\n");
-	cputs( "º(" );
+	printf(").-Almacenar datos del personal docente:                           Âº\n");
+	cputs( "Âº(" );
 	cputs( "2" );
-	printf(").-Redes <<docentes por materias>>:                                º\n");
-	cputs( "º(" );
+	printf(").-Redes <<docentes por materias>>:                                Âº\n");
+	cputs( "Âº(" );
 	cputs( "3" );
-	printf(").-Modificar un registro:                                          º\n");
-	cputs( "º(" );
+	printf(").-Modificar un registro:                                          Âº\n");
+	cputs( "Âº(" );
 	cputs( "4" );
-	printf(").-Salir                                                           º\n");
-	printf("ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼\n");
-	printf("Seleccione la opci¢n: ");
+	printf(").-Salir                                                           Âº\n");
+	printf("ÃˆÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ¼\n");
+	printf("Seleccione la opciÂ¢n: ");
 	scanf("%i", &opcion);
 
 } //Finaliza menu/*/*//*/**////////////**/*/*//**/**/***/*//*/**//****/////
@@ -321,11 +321,11 @@ void almacenar ()
 						        fflush(stdin);
                                 system("cls");
                                 printf("Que plan de estudio quiere ingresar?\n\n");
-                                printf("     ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»\n");
-								printf("     º (1). FACULTAD DE INGENIERA              º\n");
-                                printf("     º (2). FACULTAD DE CIENCIAS AMINISTRATIVASº\n"); 
-                                printf("     º (4). Salir                              º\n");
-								printf("     ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼\n\n");
+                                printf("     Ã‰ÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ»\n");
+								printf("     Âº (1). FACULTAD DE INGENIERA              Âº\n");
+                                printf("     Âº (2). FACULTAD DE CIENCIAS AMINISTRATIVASÂº\n"); 
+                                printf("     Âº (4). Salir                              Âº\n");
+								printf("     ÃˆÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ¼\n\n");
 								fflush(stdin);
 								scanf("%i",&opmaster);
 										while (contmat>0)
@@ -336,11 +336,11 @@ void almacenar ()
 										{
                                 fflush(stdin);
                                 system("cls");
-                                printf("     ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»\n");
-								printf("     º (1). INGENIERIA DE COMPUTACION          º\n");
-                                printf("     º (2). INGENIERIA INDUSTRIAL              º\n"); 
-                                printf("     º                                         º\n");
-								printf("     ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼\n\n");
+                                printf("     Ã‰ÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ»\n");
+								printf("     Âº (1). INGENIERIA DE COMPUTACION          Âº\n");
+                                printf("     Âº (2). INGENIERIA INDUSTRIAL              Âº\n"); 
+                                printf("     Âº                                         Âº\n");
+								printf("     ÃˆÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ¼\n\n");
                                
                                 fflush(stdin);
                                 scanf("%i",&oping);
@@ -361,7 +361,7 @@ void almacenar ()
 													  fflush(stdin);
 													  system("cls");
 													  printf("\tIngrese la materia del 1er semestre \n");
-													  printf("\n1. Calculo I \n2. Introducci¢n a la ingenieröa \n3. GeometrÖa \n4. Lenguaje I \n5. Formaci¢n Deportiva \n5. Tec. De estudio e invest.: ");
+													  printf("\n1. Calculo I \n2. IntroducciÂ¢n a la ingenierÃ¶a \n3. GeometrÃ–a \n4. Lenguaje I \n5. FormaciÂ¢n Deportiva \n5. Tec. De estudio e invest.: ");
 													  scanf("%i",&op2);
 													  switch(op2){
 													  
@@ -372,7 +372,7 @@ void almacenar ()
 														  }
 													  case 2:
 														  {
-															  strcpy(tri.materia[contmat],"Introducci¢n a la ingenieröa");
+															  strcpy(tri.materia[contmat],"IntroducciÂ¢n a la ingenierÃ¶a");
 															  break;
 														  }
 													  case 3:
@@ -387,7 +387,7 @@ void almacenar ()
 														  }
 													  case 5:
 														  {
-															  strcpy(tri.materia[contmat],"Formaci¢n Deportiva");
+															  strcpy(tri.materia[contmat],"FormaciÂ¢n Deportiva");
 															  break;
 														  }
 													  case 6:
@@ -421,7 +421,7 @@ void almacenar ()
 														  }
 													  case 2:
 														  {
-															  strcpy(tri.materia[contmat],"Fösica I");
+															  strcpy(tri.materia[contmat],"FÃ¶sica I");
 															  break;
 														  }
 													  case 3:
@@ -455,7 +455,7 @@ void almacenar ()
 													  fflush(stdin);
 													  system("cls");
 													  printf("\tIngrese la materia del 3er semestre \n");
-													  printf("\n1. Calculo III \n2. Fisica II \n3. Algoritmos Estructuras y Programaci¢n I \n4. Algebra Lineal \n5. Ingles II: ");
+													  printf("\n1. Calculo III \n2. Fisica II \n3. Algoritmos Estructuras y ProgramaciÂ¢n I \n4. Algebra Lineal \n5. Ingles II: ");
 													  scanf("%i",&op4);
 													  switch(op4){
 													  case 1:
@@ -470,7 +470,7 @@ void almacenar ()
 			}
 		case 3:
 			{
-				strcpy(tri.materia[contmat],"Algoritmos Estructuras y Programaci¢n I");
+				strcpy(tri.materia[contmat],"Algoritmos Estructuras y ProgramaciÂ¢n I");
 				break;
 			}
 		case 4:
@@ -494,7 +494,7 @@ void almacenar ()
 					fflush(stdin);
 					system("cls");
 					printf("\tIngrese la materia del 4to semestre \n");
-					printf("\n1. Calculo IV \n2. Laboratorio de Fisica \n3. Algoritmos Estructuras y Programaci¢n II \n4. Estructuras Discretas \n5. Ingles III: ");
+					printf("\n1. Calculo IV \n2. Laboratorio de Fisica \n3. Algoritmos Estructuras y ProgramaciÂ¢n II \n4. Estructuras Discretas \n5. Ingles III: ");
 					scanf("%i",&op5);
 					switch(op5){
 		case 1:
@@ -509,7 +509,7 @@ void almacenar ()
 			}
 		case 3:
 			{
-				strcpy(tri.materia[contmat],"Algoritmos Estructuras y Programaci¢n II");
+				strcpy(tri.materia[contmat],"Algoritmos Estructuras y ProgramaciÂ¢n II");
 				break;
 			}
 		case 4:
@@ -534,12 +534,12 @@ void almacenar ()
 					fflush(stdin);
 					system("cls");
 					printf("\tIngrese la materia del 5to semestre \n");
-					printf("\n1. Mtodos Matematicos \n2. Circuitos y Redes \n3. Algoritmos Estructuras y Programaci¢n III \n4. Sistemas Computa-cionales \n5. Probabilidades: ");
+					printf("\n1. MÂtodos Matematicos \n2. Circuitos y Redes \n3. Algoritmos Estructuras y ProgramaciÂ¢n III \n4. Sistemas Computa-cionales \n5. Probabilidades: ");
 					scanf("%i",&op6);
 					switch(op6){
 		case 1:
 			{
-				strcpy(tri.materia[contmat],"Mtodos Matematicos");
+				strcpy(tri.materia[contmat],"MÂtodos Matematicos");
 				break;
 			}
 		case 2:
@@ -549,7 +549,7 @@ void almacenar ()
 			}
 		case 3:
 			{
-				strcpy(tri.materia[contmat],"Algoritmos Estructuras y Programaci¢n III");
+				strcpy(tri.materia[contmat],"Algoritmos Estructuras y ProgramaciÂ¢n III");
 				break;
 			}
 		case 4:
@@ -573,12 +573,12 @@ void almacenar ()
 					fflush(stdin);
 					system("cls");
 					printf("\tIngrese el numero de la materia de 6to semestre \n");
-					printf("\n1. Mtodos Numricos \n2. Laboratorio de Circuitos \n3. Sistemas de Operaci¢n \n4. Arquitectura del computador \n5. Mtodos Estadösticos: ");
+					printf("\n1. MÂtodos NumÂricos \n2. Laboratorio de Circuitos \n3. Sistemas de OperaciÂ¢n \n4. Arquitectura del computador \n5. MÂtodos EstadÃ¶sticos: ");
 					scanf("%i",&op8);
 					switch(op8){
 		case 1:
 			{	
-				strcpy(tri.materia[contmat],"Mtodos Numricos");
+				strcpy(tri.materia[contmat],"MÂtodos NumÂricos");
 				break;
 			}
 		case 2:
@@ -588,7 +588,7 @@ void almacenar ()
 			}
 		case 3:
 			{
-				strcpy(tri.materia[contmat],"Sistemas de Operaci¢n");
+				strcpy(tri.materia[contmat],"Sistemas de OperaciÂ¢n");
 				break;
 			}
 		case 4:
@@ -598,7 +598,7 @@ void almacenar ()
 			}
 		case 5:
 			{
-				strcpy(tri.materia[contmat]," Mtodos Estadösticos");
+				strcpy(tri.materia[contmat]," MÂtodos EstadÃ¶sticos");
 				break;
 			}
 				}//////del swi
@@ -613,7 +613,7 @@ void almacenar ()
 					fflush(stdin);
 					system("cls");
 					printf("\tIngrese la materia del 7mo semestre \n");
-					printf("\n1. Sistema de bases de Datos I \n2. Sistema de Control \n3. Estructuras de Lenguaje y Compiladores \n4. Comunicaci¢n de Datos I \n5. Investigaci¢n de Operaciones: ");
+					printf("\n1. Sistema de bases de Datos I \n2. Sistema de Control \n3. Estructuras de Lenguaje y Compiladores \n4. ComunicaciÂ¢n de Datos I \n5. InvestigaciÂ¢n de Operaciones: ");
 					scanf("%i",&op9);
 					switch(op9){
 		case 1:
@@ -633,12 +633,12 @@ void almacenar ()
 			}
 		case 4:
 			{
-				strcpy(tri.materia[contmat],"Comunicaci¢n de Datos I");
+				strcpy(tri.materia[contmat],"ComunicaciÂ¢n de Datos I");
 				break;
 			}
 		case 5:
 			{
-				strcpy(tri.materia[contmat],"Investigaci¢n de Operaciones");
+				strcpy(tri.materia[contmat],"InvestigaciÂ¢n de Operaciones");
 				break;
 			}
 				}///del sw
@@ -654,7 +654,7 @@ void almacenar ()
 					fflush(stdin);
 					system("cls");
 					printf("\tIngrese la materia del 8vo semestre \n");
-					printf("\n1. Sistema de bases de Datos II \n2. Planificaci¢n y Desarrollo de Sistemas de Informaci¢n I \n3. Ingenieröa Econ¢mica (*) \n4. Comunicaci¢n de Datos II \n5. Electiva I (*): ");
+					printf("\n1. Sistema de bases de Datos II \n2. PlanificaciÂ¢n y Desarrollo de Sistemas de InformaciÂ¢n I \n3. IngenierÃ¶a EconÂ¢mica (*) \n4. ComunicaciÂ¢n de Datos II \n5. Electiva I (*): ");
 					scanf("%i",&opa);
 					switch(opa){
 		case 1:
@@ -664,17 +664,17 @@ void almacenar ()
 			}
 		case 2:
 			{
-				strcpy(tri.materia[contmat],"Planificaci¢n y Desarrollo de Sistemas de Informaci¢n I");
+				strcpy(tri.materia[contmat],"PlanificaciÂ¢n y Desarrollo de Sistemas de InformaciÂ¢n I");
 				break;
 			}
 		case 3:
 			{
-				strcpy(tri.materia[contmat],"Ingenieröa Econ¢mica (*)");
+				strcpy(tri.materia[contmat],"IngenierÃ¶a EconÂ¢mica (*)");
 				break;
 			}
 		case 4:
 			{
-				strcpy(tri.materia[contmat],"Comunicaci¢n de Datos II");
+				strcpy(tri.materia[contmat],"ComunicaciÂ¢n de Datos II");
 				break;
 			}
 		case 5:
@@ -692,22 +692,22 @@ void almacenar ()
 					fflush(stdin);
 					system("cls");
 					printf("\tIngrese la materia del 9no semestre \n");
-					printf("\n1. Proyecto de Investigaci¢n (*) \n2. Planificaci¢n y Desarrollo de Sistemas de Informaci¢n II \n3. Admo. De Centros de Computaci¢n \n4. Electiva II (*) \n5. Electiva III (*): ");
+					printf("\n1. Proyecto de InvestigaciÂ¢n (*) \n2. PlanificaciÂ¢n y Desarrollo de Sistemas de InformaciÂ¢n II \n3. Admo. De Centros de ComputaciÂ¢n \n4. Electiva II (*) \n5. Electiva III (*): ");
 					scanf("%i",&opb);
 					switch(opb){
 		case 1:
 			{
-				strcpy(tri.materia[contmat],"Proyecto de Investigaci¢n (*)");
+				strcpy(tri.materia[contmat],"Proyecto de InvestigaciÂ¢n (*)");
 				break;
 			}
 		case 2:
 			{
-				strcpy(tri.materia[contmat],"Planificaci¢n y Desarrollo de Sistemas de Informaci¢n II");
+				strcpy(tri.materia[contmat],"PlanificaciÂ¢n y Desarrollo de Sistemas de InformaciÂ¢n II");
 				break;
 			}
 		case 3:
 			{
-				strcpy(tri.materia[contmat],"Admo. De Centros de Computaci¢n");
+				strcpy(tri.materia[contmat],"Admo. De Centros de ComputaciÂ¢n");
 				break;
 			}
 		case 4:
@@ -758,7 +758,7 @@ case 2:
 					fflush(stdin);
 					system("cls");
 					printf("\tIngrese la materia del 1er semestre \n");
-					printf("\n1. Calculo I \n2. Introducción a la Ingenieria \n3. Geometria \n4. Lenguaje I \n4. Formacion Deportiva \n5. Tec. De estudio e invest.: ");
+					printf("\n1. Calculo I \n2. IntroducciÃ³n a la Ingenieria \n3. Geometria \n4. Lenguaje I \n4. Formacion Deportiva \n5. Tec. De estudio e invest.: ");
 					 scanf("%i",&opmas_2);
 					 switch(opmas_2)
 					{
@@ -769,7 +769,7 @@ case 2:
 			}
 		case 2:
 			{
-				strcpy(tri.materia[contmat],"Introducci¢n a la ingenieria");
+				strcpy(tri.materia[contmat],"IntroducciÂ¢n a la ingenieria");
 				break;
 			}
 		case 3:
@@ -880,7 +880,7 @@ case 2:
 				do{
 					system("cls");
 					printf("\tIngrese el numero de la materia de 4to semestre \n");
-					printf("\n1. CalculoIV \n2. Laboratori de Fisica \n3. Mecanica de Sólidos \n4. Informatica I \n5. Ingenieria Ambiental \n5. Ingles III");
+					printf("\n1. CalculoIV \n2. Laboratori de Fisica \n3. Mecanica de SÃ³lidos \n4. Informatica I \n5. Ingenieria Ambiental \n5. Ingles III");
 					scanf("%i",&opmas_5);
 					switch(opmas_5){
 		case 1:
@@ -895,7 +895,7 @@ case 2:
 			}
 		case 3:
                   { 
-                        strcpy(tri.materia[contmat],"Mecanica de Sólidos");
+                        strcpy(tri.materia[contmat],"Mecanica de SÃ³lidos");
                         break;
                                             }
             case 4:
@@ -923,7 +923,7 @@ case 2:
 					fflush(stdin); 
 					system("cls");
 					printf("\tIngrese el numero de la materia de 5to semestre \n");
-					printf("\n1a. Metodos Numericos \n2b. Electrotecnia \n3c. Probabilidades \n4d. Informatica II \n5e. Teoria Económica \n6. Quimica: ");
+					printf("\n1a. Metodos Numericos \n2b. Electrotecnia \n3c. Probabilidades \n4d. Informatica II \n5e. Teoria EconÃ³mica \n6. Quimica: ");
 					scanf("%i",&opmas_6);
 					switch(opmas_6){
 		case 1:
@@ -1003,7 +1003,7 @@ case 2:
 				do{     fflush(stdin);
 					system("cls");
 					printf("\tIntroduzca la materia del 7mo semestre \n");
-					printf("\n1. Laboratorio de Termofluidos \n2. Matenimiento Industrial \n3. Investigaci¢n de Operaciones I \n4. Contabilidad de Costos \n5. Admón.. de RRHH \n6. Procesos de Manufactura: ");
+					printf("\n1. Laboratorio de Termofluidos \n2. Matenimiento Industrial \n3. InvestigaciÂ¢n de Operaciones I \n4. Contabilidad de Costos \n5. AdmÃ³n.. de RRHH \n6. Procesos de Manufactura: ");
 					scanf("%i",&opmas_9);
 					switch(opmas_9){
 		case 1:
@@ -1018,7 +1018,7 @@ case 2:
 			}
 		case 3:
 			{
-				strcpy(tri.materia[contmat],"Investigaci¢n de Operaciones I");
+				strcpy(tri.materia[contmat],"InvestigaciÂ¢n de Operaciones I");
 				break;
 			}
 		case 4:
@@ -1028,7 +1028,7 @@ case 2:
 			}
 		case 5:
 			{
-				strcpy(tri.materia[contmat],"Adm¢n. de RRHH");
+				strcpy(tri.materia[contmat],"AdmÂ¢n. de RRHH");
 				break;
 			}
 		case 6:
@@ -1045,7 +1045,7 @@ case 2:
 				do{     fflush(stdin);
 					system("cls");
 					printf("\tIngrese el numero de la materia de 8vo semestre \n");
-					printf("\n1. Generacion de Potencia \n2. Control de Calidad \n3. Investigación de Operaciones II \n4. Higiene Seguridad Industrial \n5. Plantas Industriales \n6. Laboratorio de proc. de Manufactura: ");
+					printf("\n1. Generacion de Potencia \n2. Control de Calidad \n3. InvestigaciÃ³n de Operaciones II \n4. Higiene Seguridad Industrial \n5. Plantas Industriales \n6. Laboratorio de proc. de Manufactura: ");
 					scanf("%i",&opma);
 					switch(opma){
 		case 1:
@@ -1060,7 +1060,7 @@ case 2:
 			}
 		case 3:
 			{
-				strcpy(tri.materia[contmat],"Investigación de Operaciones II");
+				strcpy(tri.materia[contmat],"InvestigaciÃ³n de Operaciones II");
 				break;
 			}
 		case 4:
@@ -1087,7 +1087,7 @@ case 2:
 				do{     fflush(stdin);
 					system("cls");
 					printf("\tIngrese el numero de la materia de 9no semestre \n");
-					printf("\n1. Proyecto de Investigación \n2. Planificaci¢n y Control de la Producción \n3. Control y eval. de Proyectos \n4. Electiva I (*) \n5. Electiva II (*): ");
+					printf("\n1. Proyecto de InvestigaciÃ³n \n2. PlanificaciÂ¢n y Control de la ProducciÃ³n \n3. Control y eval. de Proyectos \n4. Electiva I (*) \n5. Electiva II (*): ");
 					scanf("%i",&opmb);
 					switch(opmb){
 		case 1:
@@ -1097,7 +1097,7 @@ case 2:
 			}
 		case 2:
 			{
-				strcpy(tri.materia[contmat],"Planificaci¢n y Control de la Producción");
+				strcpy(tri.materia[contmat],"PlanificaciÂ¢n y Control de la ProducciÃ³n");
 				break;
 			}
 		case 3:
@@ -1140,12 +1140,12 @@ break;
 								  {
 							    fflush(stdin);
                                 system("cls");
-								printf("     ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»\n");
-								printf("     º (1). LICENCIATURA EN ADMINISTRACION DE EMPRESAS                     º\n");
-                                printf("     º (2). LICENCIATURA EN ADMINISTRACION MENCION: RELACIONES INDUSTRIALESº\n"); 
-                                printf("     º (3). LICENCIATURA EN ADMINISTRACION MENCION: GERENCIA Y MERCADEO    º\n");
-								printf("     º                                                                     º\n");
-								printf("     ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼\n\n");
+								printf("     Ã‰ÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ»\n");
+								printf("     Âº (1). LICENCIATURA EN ADMINISTRACION DE EMPRESAS                     Âº\n");
+                                printf("     Âº (2). LICENCIATURA EN ADMINISTRACION MENCION: RELACIONES INDUSTRIALESÂº\n"); 
+                                printf("     Âº (3). LICENCIATURA EN ADMINISTRACION MENCION: GERENCIA Y MERCADEO    Âº\n");
+								printf("     Âº                                                                     Âº\n");
+								printf("     ÃˆÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ¼\n\n");
                               
                                 fflush(stdin);
                                 scanf("%i",&opadmi);
@@ -1200,7 +1200,7 @@ break;
 			}
 		case 6:
 			{
-				strcpy(tri.materia[contmat],"Formación Deportiva");
+				strcpy(tri.materia[contmat],"FormaciÃ³n Deportiva");
 				break;
 			}
 					}
@@ -1254,7 +1254,7 @@ break;
 				do{fflush(stdin);
 					system("cls");
 					printf("\tIngrese el numero de la materia de 3er semestre \n");
-					printf("\n1. Contabilidad III \n2. Legislación Mercantil \n3. Matematica Financiera \n4. Estadistica I \n5. Historia y Geografia Economica \n6. Ingles II ");
+					printf("\n1. Contabilidad III \n2. LegislaciÃ³n Mercantil \n3. Matematica Financiera \n4. Estadistica I \n5. Historia y Geografia Economica \n6. Ingles II ");
 					scanf("%i",&opma4);
 					switch(opma4){
 		case 1:
@@ -1297,7 +1297,7 @@ break;
 				do{fflush(stdin);
 					system("cls");
 					printf("\tIngrese el numero de la materia de 4to semestre \n");
-					printf("\n1. Analisis de Estados Financieros \n2. Legislaci¢n Laboral \n3. Informatica I \n4. Estadistica II \n5. Ingles III: ");
+					printf("\n1. Analisis de Estados Financieros \n2. LegislaciÂ¢n Laboral \n3. Informatica I \n4. Estadistica II \n5. Ingles III: ");
 					scanf("%i",&opma5);
 					switch(opma5){
 		case 1:
@@ -1307,7 +1307,7 @@ break;
 			}
 		case 2:
 			{
-				strcpy(tri.materia[contmat],"Legislaci¢n Laboral");
+				strcpy(tri.materia[contmat],"LegislaciÂ¢n Laboral");
 				break;
 			}
 		case 3:
@@ -1334,7 +1334,7 @@ break;
 				do{fflush(stdin);
 					system("cls");
 					printf("\tIngrese el numero de la materia de 5to semestre \n");
-					printf("\n1. Contabilidad de Costos \n2. Gerencia Ambiental \n3. Informatica II \n4. Investigación de Operaciones \n5. Comport. Organizacional \n6. Psicología del Trabajo: ");
+					printf("\n1. Contabilidad de Costos \n2. Gerencia Ambiental \n3. Informatica II \n4. InvestigaciÃ³n de Operaciones \n5. Comport. Organizacional \n6. PsicologÃ­a del Trabajo: ");
 					scanf("%i",&opma6);
 					switch(opma6){
 		case 1:
@@ -1354,7 +1354,7 @@ break;
 			}
 		case 4:
 			{
-				strcpy(tri.materia[contmat],"Investigación de Operaciones");
+				strcpy(tri.materia[contmat],"InvestigaciÃ³n de Operaciones");
 				break;
 			}
 		case 5:
@@ -1376,7 +1376,7 @@ break;
 				do{fflush(stdin);
 					system("cls");
 					printf("\tIngrese la materia del 6to semestre \n");
-					printf("\n1. Analisis de costos \n2. Administración Publica \n3. Sistemas de Informacion Gerencial \n4. Teoria Economica I \n5. Admon de RRHH \n6. Mercadotecnia: ");
+					printf("\n1. Analisis de costos \n2. AdministraciÃ³n Publica \n3. Sistemas de Informacion Gerencial \n4. Teoria Economica I \n5. Admon de RRHH \n6. Mercadotecnia: ");
 			        scanf("%i",&opma8);
 					switch(opma8){
 		case 1:
@@ -1386,7 +1386,7 @@ break;
 			}
 		case 2:
 			{
-				strcpy(tri.materia[contmat],"Administración Publica");
+				strcpy(tri.materia[contmat],"AdministraciÃ³n Publica");
 				break;
 			}
 		case 3:
@@ -1418,12 +1418,12 @@ break;
 				do{fflush(stdin);
 					system("cls");
 					printf("\tIngrese el numero de la materia de 7mo semestre \n");
-					printf("\n1. Admón. Financiera \n2. Sistema Impositivo Venezolano \n3. Control y Evaluacion de Procesos \n4. Teoria Económica II \n5. Mercadeo Nacional \n6. Investigación de Mercadeo: ");
+					printf("\n1. AdmÃ³n. Financiera \n2. Sistema Impositivo Venezolano \n3. Control y Evaluacion de Procesos \n4. Teoria EconÃ³mica II \n5. Mercadeo Nacional \n6. InvestigaciÃ³n de Mercadeo: ");
 					scanf("%i",&opma9);
 					switch(opma9){
 		case 1:
 			{
-				strcpy(tri.materia[contmat],"Admón Financiera");
+				strcpy(tri.materia[contmat],"AdmÃ³n Financiera");
 				break;
 			}
 		case 2:
@@ -1438,7 +1438,7 @@ break;
 			}
 		case 4:
 			{
-				strcpy(tri.materia[contmat],"Teoria Económica II");
+				strcpy(tri.materia[contmat],"Teoria EconÃ³mica II");
 				break;
 			}
 		case 5:
@@ -1460,12 +1460,12 @@ break;
 				do{fflush(stdin);
 					system("cls");
 					printf("\tIngrese el numero de la materia de 8vo semestre \n");
-					printf("\n1. Planificación y Presupuesto \n2. Instituciones Financieras \n3. Planificación y Control de la Producción \n4. Aplicación de normas ISO \n5. Mercadeo Internacional \n6. Electiva I: ");
+					printf("\n1. PlanificaciÃ³n y Presupuesto \n2. Instituciones Financieras \n3. PlanificaciÃ³n y Control de la ProducciÃ³n \n4. AplicaciÃ³n de normas ISO \n5. Mercadeo Internacional \n6. Electiva I: ");
 					scanf("%i",&opm_a);
 					switch(opm_a){
 		case 1:
 			{
-				strcpy(tri.materia[contmat],"Planificación y Presupuestos");
+				strcpy(tri.materia[contmat],"PlanificaciÃ³n y Presupuestos");
 				break;
 			}
 		case 2:
@@ -1475,7 +1475,7 @@ break;
 			}
 		case 3:
 			{
-				strcpy(tri.materia[contmat],"Planificación y Control de la Producion");
+				strcpy(tri.materia[contmat],"PlanificaciÃ³n y Control de la Producion");
 				break;
 			}
 		case 4:
@@ -1504,7 +1504,7 @@ break;
 				do{fflush(stdin);
 					system("cls");
 					printf("\tIngrese el numero de la materia de 9no semestre \n");
-					printf("\n1. Proyecto de Investigacion \n2. Gerencia Estrategica \n3. Auditoria Administrativa \n4. Lab. De Casos Simulados \n5. Formaci¢n Empresarial \n6. Electiva II: ");
+					printf("\n1. Proyecto de Investigacion \n2. Gerencia Estrategica \n3. Auditoria Administrativa \n4. Lab. De Casos Simulados \n5. FormaciÂ¢n Empresarial \n6. Electiva II: ");
 					scanf("%i",&opf);
 					switch(opf){
             case 1:
@@ -1529,7 +1529,7 @@ break;
 			}
 		case 5:
 			{
-				strcpy(tri.materia[contmat],"Formaci¢n Empresarial");
+				strcpy(tri.materia[contmat],"FormaciÂ¢n Empresarial");
 				break;
 			}
 		case 6:
@@ -1605,7 +1605,7 @@ break;
 										}
 									case 6:
 										{
-											strcpy(tri.materia[contmat],"Formación Deportiva");
+											strcpy(tri.materia[contmat],"FormaciÃ³n Deportiva");
 											break;
 										}
 									}
@@ -1661,7 +1661,7 @@ break;
 									fflush(stdin);
 									system("cls");
 									printf("\tIngrese el numero de la materia de 3er semestre \n");
-									printf("\n1. Contabilidad III \n2. Legislación Mercantil \n3. Matematica Financiera \n4. Estadistica I \n5. Historia y Geografia Economica \n6. Ingles II ");
+									printf("\n1. Contabilidad III \n2. LegislaciÃ³n Mercantil \n3. Matematica Financiera \n4. Estadistica I \n5. Historia y Geografia Economica \n6. Ingles II ");
 									scanf("%i",&opm_a4);
 									switch(opm_a4){
 									case 1:
@@ -1704,7 +1704,7 @@ break;
 									fflush(stdin);
 									system("cls");
 									printf("\tIngrese el numero de la materia de 4to semestre \n");
-									printf("\n1. Analisis de Estados Financieros \n2. Legislaci¢n Laboral \n3. Informatica I \n4. Estadistica II \n5. Ingles III: ");
+									printf("\n1. Analisis de Estados Financieros \n2. LegislaciÂ¢n Laboral \n3. Informatica I \n4. Estadistica II \n5. Ingles III: ");
 									scanf("%i",&opm_a5);
 									switch(opm_a5){
 									case 1:
@@ -1714,7 +1714,7 @@ break;
 										}
 									case 2:
 										{
-											strcpy(tri.materia[contmat],"Legislaci¢n Laboral");
+											strcpy(tri.materia[contmat],"LegislaciÂ¢n Laboral");
 											break;
 										}
 									case 3:
@@ -1742,7 +1742,7 @@ break;
 									fflush(stdin);
 									system("cls");
 									printf("\tIngrese el numero de la materia de 5to semestre \n");
-									printf("\n1. Contabilidad de Costos \n2. Gerencia Ambiental \n3. Informatica II \n4. Investigación de Operaciones \n5. Comport. Organizacional \n6. Psicología del Trabajo: ");
+									printf("\n1. Contabilidad de Costos \n2. Gerencia Ambiental \n3. Informatica II \n4. InvestigaciÃ³n de Operaciones \n5. Comport. Organizacional \n6. PsicologÃ­a del Trabajo: ");
 									scanf("%i",&opm_a6);
 									switch(opm_a6){
 									case 1:
@@ -1762,7 +1762,7 @@ break;
 										}
 									case 4:
 										{
-											strcpy(tri.materia[contmat],"Investigación de Operaciones");
+											strcpy(tri.materia[contmat],"InvestigaciÃ³n de Operaciones");
 											break;
 										}
 									case 5:
@@ -1785,7 +1785,7 @@ break;
 									fflush(stdin);
 									system("cls");
 									printf("\tIngrese el numero de la materia de 6to semestre \n");
-									printf("\n1. Analisis de costos \n2. Administración Publica \n3. Sistemas de Informacion Gerencial \n4. Teoria Economica I \n5. Teoria de las Relaciones Industriales \n6. Psicologia Industrial: ");
+									printf("\n1. Analisis de costos \n2. AdministraciÃ³n Publica \n3. Sistemas de Informacion Gerencial \n4. Teoria Economica I \n5. Teoria de las Relaciones Industriales \n6. Psicologia Industrial: ");
 									scanf("%i",&opm_a8);
 									switch(opm_a8){
 									case 1:
@@ -1795,7 +1795,7 @@ break;
 										}
 									case 2:
 										{
-											strcpy(tri.materia[contmat],"Administración Publica");
+											strcpy(tri.materia[contmat],"AdministraciÃ³n Publica");
 											break;
 										}
 									case 3:
@@ -1827,12 +1827,12 @@ break;
 				do{fflush(stdin);
 					system("cls");
 					printf("\tIngrese el numero de la materia de 7mo semestre \n");
-					printf("\n1. Admón. Financiera \n2. Sistema Impositivo Venezolano \n3. Control y Evaluacion de Procesos \n4. Teoria Económica II \n5. Analisis y Evaluaci¢n de Puestos \n6. Psicometria: ");
+					printf("\n1. AdmÃ³n. Financiera \n2. Sistema Impositivo Venezolano \n3. Control y Evaluacion de Procesos \n4. Teoria EconÃ³mica II \n5. Analisis y EvaluaciÂ¢n de Puestos \n6. Psicometria: ");
 					scanf("%i",&opm_a9);
 					switch(opm_a9){
 		case 1:
 			{
-				strcpy(tri.materia[contmat],"Admón Financiera");
+				strcpy(tri.materia[contmat],"AdmÃ³n Financiera");
 				break;
 			}
 		case 2:
@@ -1847,7 +1847,7 @@ break;
 			}
 		case 4:
 			{
-				strcpy(tri.materia[contmat],"Teoria Económica II");
+				strcpy(tri.materia[contmat],"Teoria EconÃ³mica II");
 				break;
 			}
 		case 5:
@@ -1869,12 +1869,12 @@ break;
 				do{fflush(stdin);
 					system("cls");
 					printf("\tIngrese el numero de la materia de 8vo semestre \n");
-					printf("\n1. Planificación y Presupuesto \n2. Metodos y Tecnicas de Control \n3. Electiva I \n4. Reclutamiento y Selecci¢n \n5. Nominas y Salarios \n6. Evaluacion de Personal: ");
+					printf("\n1. PlanificaciÃ³n y Presupuesto \n2. Metodos y Tecnicas de Control \n3. Electiva I \n4. Reclutamiento y SelecciÂ¢n \n5. Nominas y Salarios \n6. Evaluacion de Personal: ");
 					scanf("%i",&opmat);
 					switch(opmat){
 		case 1:
 			{
-				strcpy(tri.materia[contmat],"Planificación y Presupuestos");
+				strcpy(tri.materia[contmat],"PlanificaciÃ³n y Presupuestos");
 				break;
 			}
 		case 2:
@@ -1889,7 +1889,7 @@ break;
 			}
 		case 4:
 			{
-				strcpy(tri.materia[contmat],"Reclutamiento y Selecci¢n");
+				strcpy(tri.materia[contmat],"Reclutamiento y SelecciÂ¢n");
 				break;
 			}
 		case 5:
@@ -1913,7 +1913,7 @@ break;
 				do{fflush(stdin);
 					system("cls");
 					printf("\tIngrese el numero de la materia de 9no semestre \n");
-					printf("\n1. Proyecto de Investigacion \n2. Higiene y Seguridad Industrial \n3. Electiva II \n4. Lab. De Casos Simulados \n5. Compensaci¢n y Beneficios \n6. Capacitac¢n y Desarrollo: ");
+					printf("\n1. Proyecto de Investigacion \n2. Higiene y Seguridad Industrial \n3. Electiva II \n4. Lab. De Casos Simulados \n5. CompensaciÂ¢n y Beneficios \n6. CapacitacÂ¢n y Desarrollo: ");
 					scanf("%i",&op_f);
 					switch(op_f){
             case 1:
@@ -1938,12 +1938,12 @@ break;
 			}
 		case 5:
 			{
-				strcpy(tri.materia[contmat],"Compensaci¢n y Beneficios");
+				strcpy(tri.materia[contmat],"CompensaciÂ¢n y Beneficios");
 				break;
 			}
 		case 6:
 			{
-				strcpy(tri.materia[contmat],"Capacitac¢n y Desarrollo");
+				strcpy(tri.materia[contmat],"CapacitacÂ¢n y Desarrollo");
 				break;
 			}
 			}//swit
@@ -2011,7 +2011,7 @@ break;
 			}
 		case 6:
 			{
-				strcpy(tri.materia[contmat],"Formación Deportiva");
+				strcpy(tri.materia[contmat],"FormaciÃ³n Deportiva");
 				break;
 			}
 					}
@@ -2065,7 +2065,7 @@ break;
 				do{fflush(stdin);
 					system("cls");
 					printf("\tIngrese el numero de la materia de 3er semestre \n");
-					printf("\n1. Contabilidad III \n2. Legislación Laboral \n3. Matematica Financiera \n4. Estadistica I \n5. Historia y Geografia Economica \n6. Ingles II ");
+					printf("\n1. Contabilidad III \n2. LegislaciÃ³n Laboral \n3. Matematica Financiera \n4. Estadistica I \n5. Historia y Geografia Economica \n6. Ingles II ");
 					scanf("%i",&opmas4);
 					switch(opmas4){
 		case 1:
@@ -2075,7 +2075,7 @@ break;
 			}
 		case 2:
 			{
-				strcpy(tri.materia[contmat],"Legislaci¢n Laboral");
+				strcpy(tri.materia[contmat],"LegislaciÂ¢n Laboral");
 				break;
 			}
 		case 3:
@@ -2145,7 +2145,7 @@ break;
 				do{fflush(stdin);
 					system("cls");
 					printf("\tIngrese el numero de la materia de 5to semestre \n");
-					printf("\n1. Contabilidad de Costos \n2. Gerencia Laboral \n3. Informatica II \n4. Investigación de Operaciones \n5. Comport. Organizacional \n6. Psicología del Trabajo: ");
+					printf("\n1. Contabilidad de Costos \n2. Gerencia Laboral \n3. Informatica II \n4. InvestigaciÃ³n de Operaciones \n5. Comport. Organizacional \n6. PsicologÃ­a del Trabajo: ");
 					scanf("%i",&opmas6);
 					switch(opmas6){
 		case 1:
@@ -2165,7 +2165,7 @@ break;
 			}
 		case 4:
 			{
-				strcpy(tri.materia[contmat],"Investigación de Operaciones");
+				strcpy(tri.materia[contmat],"InvestigaciÃ³n de Operaciones");
 				break;
 			}
 		case 5:
@@ -2187,7 +2187,7 @@ break;
 				do{fflush(stdin);
 					system("cls");
 					printf("\tIngrese el numero de la materia de 6to semestre \n");
-					printf("\n2a. Analisis de costos \n2b. Administración Publica \n2c. Sistemas de Informacion Gerencial \n2d. Teoria Economica I \n5e. Admon de RRHH \n6. Mercadotecnia: ");
+					printf("\n2a. Analisis de costos \n2b. AdministraciÃ³n Publica \n2c. Sistemas de Informacion Gerencial \n2d. Teoria Economica I \n5e. Admon de RRHH \n6. Mercadotecnia: ");
 			        scanf("%i",&opmas8);
 					switch(opmas8){
 		case 1:
@@ -2197,7 +2197,7 @@ break;
 			}
 		case 2:
 			{
-				strcpy(tri.materia[contmat],"Administración Publica");
+				strcpy(tri.materia[contmat],"AdministraciÃ³n Publica");
 				break;
 			}
 		case 3:
@@ -2229,12 +2229,12 @@ break;
 				do{fflush(stdin);
 					system("cls");
 					printf("\tIngrese el numero de la materia de 7mo semestre \n");
-					printf("\n1. Admón. Financiera \n2. Sistema Impositivo Venezolano \n3. Control y Evaluacion de Procesos \n4. Teoria Económica II \n5. Mercadeo Internacional \n6. Investigación de mercadeo: ");
+					printf("\n1. AdmÃ³n. Financiera \n2. Sistema Impositivo Venezolano \n3. Control y Evaluacion de Procesos \n4. Teoria EconÃ³mica II \n5. Mercadeo Internacional \n6. InvestigaciÃ³n de mercadeo: ");
 					scanf("%i",&opmas9);
 					switch(opmas9){
 		case 1:
 			{
-				strcpy(tri.materia[contmat],"Admón Financiera");
+				strcpy(tri.materia[contmat],"AdmÃ³n Financiera");
 				break;
 			}
 		case 2:
@@ -2249,7 +2249,7 @@ break;
 			}
 		case 4:
 			{
-				strcpy(tri.materia[contmat],"Teoria Económica II");
+				strcpy(tri.materia[contmat],"Teoria EconÃ³mica II");
 				break;
 			}
 		case 5:
@@ -2271,12 +2271,12 @@ break;
 				do{fflush(stdin);
 					system("cls");
 					printf("\tIngrese el numero de la materia de 8vo semestre \n");
-					printf("\n1. Planificación y Presupuesto \n2. Instituciones Financieras \n3. Planificación y Control de la Producción \n4. Aplicación de normas ISO \n5. Gerencia Estrategica y Mercadeo \n6. Electiva I: ");
+					printf("\n1. PlanificaciÃ³n y Presupuesto \n2. Instituciones Financieras \n3. PlanificaciÃ³n y Control de la ProducciÃ³n \n4. AplicaciÃ³n de normas ISO \n5. Gerencia Estrategica y Mercadeo \n6. Electiva I: ");
 					scanf("%i",&opmas);
 					switch(opmas){
 		case 1:
 			{
-				strcpy(tri.materia[contmat],"Planificación y Presupuestos");
+				strcpy(tri.materia[contmat],"PlanificaciÃ³n y Presupuestos");
 				break;
 			}
 		case 2:
@@ -2286,7 +2286,7 @@ break;
 			}
 		case 3:
 			{
-				strcpy(tri.materia[contmat],"Planificación y Control de la Producion");
+				strcpy(tri.materia[contmat],"PlanificaciÃ³n y Control de la Producion");
 				break;
 			}
 		case 4:
@@ -2315,7 +2315,7 @@ break;
 				do{fflush(stdin);
 					system("cls");
 					printf("\tIngrese el numero de la materia de 9no semestre \n");
-					printf("\n5a. Proyecto de Investigacion \n5b. Gerencia Estrategica \n5c. Auditoria Administrativa \n5d. Lab. De Casos Simulados \n5e. Formaci¢n Empresarial \n6. Electiva II: ");
+					printf("\n5a. Proyecto de Investigacion \n5b. Gerencia Estrategica \n5c. Auditoria Administrativa \n5d. Lab. De Casos Simulados \n5e. FormaciÂ¢n Empresarial \n6. Electiva II: ");
 					scanf("%i",&opbf);
 					switch(opbf){
                             case 1:
@@ -2340,7 +2340,7 @@ break;
 			}
 		case 5:
 			{
-				strcpy(tri.materia[contmat],"Formaci¢n Empresarial");
+				strcpy(tri.materia[contmat],"FormaciÂ¢n Empresarial");
 				break;
 			}
 		case 6:
@@ -2442,14 +2442,14 @@ void busqueda(char id_buscar[])
 					if(x==NULL)
 
 					{   
-						printf("É»ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»É»\n");
-						printf("ÈÎ¼                                              ÈÎ¼\n");
-                        printf("É¼                                                È»\n");
-						printf("ºArchivo vacio, Ingrese a la Opcion Almacenar Datosº\n");
-						printf("º          Presione Enter Para Continuar           º\n");
-						printf("È»                                                É¼\n");
-                        printf("ÉÎ»                                              ÉÎ»\n");
-						printf("È¼ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼È¼\n");
+						printf("Ã‰Â»Ã‰ÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ»Ã‰Â»\n");
+						printf("ÃˆÃÂ¼                                              ÃˆÃÂ¼\n");
+                        printf("Ã‰Â¼                                                ÃˆÂ»\n");
+						printf("ÂºArchivo vacio, Ingrese a la Opcion Almacenar DatosÂº\n");
+						printf("Âº          Presione Enter Para Continuar           Âº\n");
+						printf("ÃˆÂ»                                                Ã‰Â¼\n");
+                        printf("Ã‰ÃÂ»                                              Ã‰ÃÂ»\n");
+						printf("ÃˆÂ¼ÃˆÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ¼ÃˆÂ¼\n");
 						getch();
 
 						
@@ -2497,14 +2497,14 @@ sw=1;
 
 						system ("cls");
 
-						printf("É»ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»É»\n");
-						printf("ÈÎ¼                                              ÈÎ¼\n");
-                        printf("É¼                                                È»\n");
-						printf("º              Persona no encontrada               º\n");
-						printf("º          Presione Enter Para Continuar           º\n");
-						printf("È»                                                É¼\n");
-                        printf("ÉÎ»                                              ÉÎ»\n");
-						printf("È¼ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼È¼\n");
+						printf("Ã‰Â»Ã‰ÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ»Ã‰Â»\n");
+						printf("ÃˆÃÂ¼                                              ÃˆÃÂ¼\n");
+                        printf("Ã‰Â¼                                                ÃˆÂ»\n");
+						printf("Âº              Persona no encontrada               Âº\n");
+						printf("Âº          Presione Enter Para Continuar           Âº\n");
+						printf("ÃˆÂ»                                                Ã‰Â¼\n");
+                        printf("Ã‰ÃÂ»                                              Ã‰ÃÂ»\n");
+						printf("ÃˆÂ¼ÃˆÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ¼ÃˆÂ¼\n");
 
 						getch();
 
